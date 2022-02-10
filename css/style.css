@@ -1,0 +1,33 @@
+.navbar{
+    background-color: blueviolet;
+
+}
+
+.quem-somos{
+    background-color: lightblue;
+}
+
+.margem{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.nav-text{
+    color: white;
+    font-style:oblique;
+    font-size: large;
+
+}
+
+.parceiros{
+    background-color: aliceblue;
+}
+
+.serviços{
+    background-color: aliceblue;
+}
+
+.bg-foot{
+    background-color: black;
+    color: white;
+}
